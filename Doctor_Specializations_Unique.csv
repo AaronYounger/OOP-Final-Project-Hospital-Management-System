@@ -1,0 +1,55 @@
+DoctorID,Doctor Name,Type of Doctor,ExperienceYears,Hospital / Clinic,Email,Phone,Hours Available,ActiveStatus
+D001,Dr. Daniel Blake,General Practitioner,8,Tulsa General Hospital,daniel.blake@tulsageneralhospital.org,918-555-1001,Mon–Fri 9–5,TRUE
+D002,Dr. Michael Gomez,General Practitioner,15,Tulsa General Hospital,michael.gomez@tulsageneralhospital.org,918-555-1002,Mon–Fri 9–5,TRUE
+D003,Dr. Priya Patel,General Practitioner,5,Tulsa General Hospital,priya.patel@tulsageneralhospital.org,918-555-1003,Mon–Fri 9–5,TRUE
+D004,Dr. Owen Jones,Oncologist,24,Cancer Care Center,owen.jones@cancercarecenter.org,918-555-1004,Mon–Fri 9–5,TRUE
+D005,Dr. Michael Clark,Oncologist,23,Cancer Care Center,michael.clark@cancercarecenter.org,918-555-1005,Mon–Fri 9–5,TRUE
+D006,Dr. Sophia Blake,Oncologist,12,Cancer Care Center,sophia.blake@cancercarecenter.org,918-555-1006,Mon–Fri 9–5,TRUE
+D007,Dr. Zoe Hughes,Hematologist,22,Mercy Blood Clinic,zoe.hughes@mercybloodclinic.org,918-555-1007,Mon–Fri 9–5,TRUE
+D008,Dr. Olive Gray,Hematologist,24,Mercy Blood Clinic,olive.gray@mercybloodclinic.org,918-555-1008,Mon–Fri 9–5,TRUE
+D009,Dr. Isabella Brown,Hematologist,9,Mercy Blood Clinic,isabella.brown@mercybloodclinic.org,918-555-1009,Mon–Fri 9–5,TRUE
+D010,Dr. Olive King,Endocrinologist,12,St. Mary’s Endocrine Center,olive.king@st.marysendocrinecenter.org,918-555-1010,Mon–Fri 9–5,TRUE
+D011,Dr. Mason Johnson,Endocrinologist,15,St. Mary’s Endocrine Center,mason.johnson@st.marysendocrinecenter.org,918-555-1011,Mon–Fri 9–5,TRUE
+D012,Dr. Miles Bell,Endocrinologist,18,St. Mary’s Endocrine Center,miles.bell@st.marysendocrinecenter.org,918-555-1012,Mon–Fri 9–5,TRUE
+D013,Dr. Nathan Gomez,Psychiatrist,9,Metro Behavioral Health,nathan.gomez@metrobehavioralhealth.org,918-555-1013,Mon–Fri 9–5,TRUE
+D014,Dr. Lily Price,Psychiatrist,15,Metro Behavioral Health,lily.price@metrobehavioralhealth.org,918-555-1014,Mon–Fri 9–5,TRUE
+D015,Dr. Noah Brooks,Psychiatrist,16,Metro Behavioral Health,noah.brooks@metrobehavioralhealth.org,918-555-1015,Mon–Fri 9–5,TRUE
+D016,Dr. Isabella Sanders,Neurologist,11,Tulsa Neuro Institute,isabella.sanders@tulsaneuroinstitute.org,918-555-1016,Mon–Fri 9–5,TRUE
+D017,Dr. Henry Wright,Neurologist,25,Tulsa Neuro Institute,henry.wright@tulsaneuroinstitute.org,918-555-1017,Mon–Fri 9–5,TRUE
+D018,Dr. Ben Wright,Neurologist,10,Tulsa Neuro Institute,ben.wright@tulsaneuroinstitute.org,918-555-1018,Mon–Fri 9–5,TRUE
+D019,Dr. Leah Wright,Optometrist,20,VisionCare Optometry,leah.wright@visioncareoptometry.org,918-555-1019,Mon–Fri 9–5,TRUE
+D020,Dr. Chloe Wright,Optometrist,24,VisionCare Optometry,chloe.wright@visioncareoptometry.org,918-555-1020,Mon–Fri 9–5,TRUE
+D021,Dr. Isabella Brooks,Optometrist,7,VisionCare Optometry,isabella.brooks@visioncareoptometry.org,918-555-1021,Mon–Fri 9–5,TRUE
+D022,Dr. Henry Rivera,ENT Doctor,16,Oklahoma ENT Center,henry.rivera@oklahomaentcenter.org,918-555-1022,Mon–Fri 9–5,TRUE
+D023,Dr. Adam White,ENT Doctor,23,Oklahoma ENT Center,adam.white@oklahomaentcenter.org,918-555-1023,Mon–Fri 9–5,TRUE
+D024,Dr. Lucas Jones,ENT Doctor,24,Oklahoma ENT Center,lucas.jones@oklahomaentcenter.org,918-555-1024,Mon–Fri 9–5,TRUE
+D025,Dr. Olivia White,Cardiologist,12,Heart Institute of Tulsa,olivia.white@heartinstituteoftulsa.org,918-555-1025,Mon–Fri 9–5,TRUE
+D026,Dr. Sophie White,Cardiologist,12,Heart Institute of Tulsa,sophie.white@heartinstituteoftulsa.org,918-555-1026,Mon–Fri 9–5,TRUE
+D027,Dr. Emily Price,Cardiologist,16,Heart Institute of Tulsa,emily.price@heartinstituteoftulsa.org,918-555-1027,Mon–Fri 9–5,TRUE
+D028,Dr. Sarah Sanders,Pulmonologist,25,Tulsa Respiratory Clinic,sarah.sanders@tulsarespiratoryclinic.org,918-555-1028,Mon–Fri 9–5,TRUE
+D029,Dr. Emily Price,Pulmonologist,15,Tulsa Respiratory Clinic,emily.price@tulsarespiratoryclinic.org,918-555-1029,Mon–Fri 9–5,TRUE
+D030,Dr. Leah Brown,Pulmonologist,13,Tulsa Respiratory Clinic,leah.brown@tulsarespiratoryclinic.org,918-555-1030,Mon–Fri 9–5,TRUE
+D031,Dr. Noah Reyes,Gastroenterologist,17,GI Specialists of Oklahoma,noah.reyes@gispecialistsofoklahoma.org,918-555-1031,Mon–Fri 9–5,TRUE
+D032,Dr. Priya Reed,Gastroenterologist,23,GI Specialists of Oklahoma,priya.reed@gispecialistsofoklahoma.org,918-555-1032,Mon–Fri 9–5,TRUE
+D033,Dr. Mason White,Gastroenterologist,9,GI Specialists of Oklahoma,mason.white@gispecialistsofoklahoma.org,918-555-1033,Mon–Fri 9–5,TRUE
+D034,Dr. Ella Kim,Dermatologist,19,City Dermatology,ella.kim@citydermatology.org,918-555-1034,Mon–Fri 9–5,TRUE
+D035,Dr. Dylan Miller,Dermatologist,24,City Dermatology,dylan.miller@citydermatology.org,918-555-1035,Mon–Fri 9–5,TRUE
+D036,Dr. Lily Reyes,Dermatologist,5,City Dermatology,lily.reyes@citydermatology.org,918-555-1036,Mon–Fri 9–5,TRUE
+D037,Dr. Dylan Gomez,Orthopedist,8,Tulsa Ortho Center,dylan.gomez@tulsaorthocenter.org,918-555-1037,Mon–Fri 9–5,TRUE
+D038,Dr. Henry Blake,Orthopedist,9,Tulsa Ortho Center,henry.blake@tulsaorthocenter.org,918-555-1038,Mon–Fri 9–5,TRUE
+D039,Dr. Priya Blake,Orthopedist,21,Tulsa Ortho Center,priya.blake@tulsaorthocenter.org,918-555-1039,Mon–Fri 9–5,TRUE
+D040,Dr. Ella Scott,OBGYN,20,Women’s Health Center,ella.scott@womenshealthcenter.org,918-555-1040,Mon–Fri 9–5,TRUE
+D041,Dr. Zoe Wright,OBGYN,22,Women’s Health Center,zoe.wright@womenshealthcenter.org,918-555-1041,Mon–Fri 9–5,TRUE
+D042,Dr. Olive Parker,OBGYN,11,Women’s Health Center,olive.parker@womenshealthcenter.org,918-555-1042,Mon–Fri 9–5,TRUE
+D043,Dr. Henry Johnson,OBGYN,7,Women’s Health Center,henry.johnson@womenshealthcenter.org,918-555-1043,Mon–Fri 9–5,TRUE
+D044,Dr. Caroline Singh,OBGYN,9,Women’s Health Center,caroline.singh@womenshealthcenter.org,918-555-1044,Mon–Fri 9–5,TRUE
+D045,Dr. Sophia Patel,OBGYN,24,Women’s Health Center,sophia.patel@womenshealthcenter.org,918-555-1045,Mon–Fri 9–5,TRUE
+D046,Dr. Miles Stewart,Pediatrician,17,Children’s Medical Center,miles.stewart@childrensmedicalcenter.org,918-555-1046,Mon–Fri 9–5,TRUE
+D047,Dr. Jack Nelson,Pediatrician,8,Children’s Medical Center,jack.nelson@childrensmedicalcenter.org,918-555-1047,Mon–Fri 9–5,TRUE
+D048,Dr. Owen Hill,Pediatrician,9,Children’s Medical Center,owen.hill@childrensmedicalcenter.org,918-555-1048,Mon–Fri 9–5,TRUE
+D049,Dr. Jack Cooper,Pediatrician,11,Children’s Medical Center,jack.cooper@childrensmedicalcenter.org,918-555-1049,Mon–Fri 9–5,TRUE
+D050,Dr. Isabella Blake,Pediatrician,5,Children’s Medical Center,isabella.blake@childrensmedicalcenter.org,918-555-1050,Mon–Fri 9–5,TRUE
+D051,Dr. Aaron King,Pediatrician,6,Children’s Medical Center,aaron.king@childrensmedicalcenter.org,918-555-1051,Mon–Fri 9–5,TRUE
+D052,Dr. David Lee,General Practitioner,15,Tulsa General Hospital,david.lee@tulsageneralhospital.org,918-555-1052,Mon–Fri 9–5,TRUE
+D053,Dr. Ben Patel,General Practitioner,5,Tulsa General Hospital,ben.patel@tulsageneralhospital.org,918-555-1053,Mon–Fri 9–5,TRUE
+D054,Dr. Sarah Torres,General Practitioner,21,Tulsa General Hospital,sarah.torres@tulsageneralhospital.org,918-555-1054,Mon–Fri 9–5,TRUE

@@ -1,0 +1,4 @@
+PatientID,PatientName,DoctorName,AppointmentDate,BillingCost,BilledAt
+P00001,Aaron Younger,Dr. Isabella Brooks,12/2/2025,150,12/17/2025 15:59
+P00008,ben matt,Dr. Chloe Wright,2025-12-04,165.00,2025-12-18 14:51:15
+P00009,Justus sel,Dr. Chloe Wright,2025-12-11,123.75,2025-12-18 15:34:44

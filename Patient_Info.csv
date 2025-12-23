@@ -1,0 +1,8 @@
+PatientID,Name,DOB,Email,Gender,Address,Zip_Code,Phone,Insurance,SSN,Allergies,Timestamp
+P00001,Aaron Younger,08-17-2005,plugugly68@gmail.com,Male,2148 Hemlock Lane,75022,972-824-0028,3;0;1;2;6;4,679-83-9389,Hay;Mold;Shrimp;Hay;Mold;shrimp;Hay;Mold;Hay;Mold;Hay;Mold;Hay;Mold;Hay;Mold;Hay;Mold;Hay;Mold;hay;Hay;Mold;Hay;Mold;pollen;Hay;Mold,12-17-2025
+P00002,bob,9/17/2019,bb@gm.com,Male,2148 Hemlock Lane,75022,999-999-9999,4,3253534,Hay,11/18/2025
+P00003,Josias Menchaca,3/2/2006,MenchacaJ@jbu.edu,dude,2000 st,37445,479-542-2143,2,55-34-5600,bad grades,11/18/2025
+P00004,John Cracker,,jcracker@jbu.edu,,,,479-676-7676,,,,11/19/2025
+P00005,Bob Henry,12/31/2000,1234@were.com,Male,2000 W University st,71319,123-456-7890,1,1234567890,none,11/19/2025
+P00008,ben matt,09-17-2006,benmatt@gmail.com,Male,733 hemlock circle,80945,456-890-7654,4,456-78-3464,Hay;Mold,12-18-2025
+P00009,Justus sel,11-23-1999,justussel@gmail.com,Male,456 hemlock circle,67843,972-456-9876,4,234-66-7345,Hay;Mold,12-18-2025

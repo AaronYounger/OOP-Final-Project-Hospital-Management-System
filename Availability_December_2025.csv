@@ -1,0 +1,1675 @@
+DoctorID,DoctorName,Date,IsAvailable,DailyCapacityUnits,Notes
+D001,Dr. Daniel Blake,12/1/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/2/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/3/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/4/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/5/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/6/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/7/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/8/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/9/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/10/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/11/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/12/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/13/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/14/2025,FALSE,0,Out of office
+D001,Dr. Daniel Blake,12/15/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/16/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/17/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/18/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/19/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/20/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/21/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/22/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/23/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/24/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/25/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/26/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/27/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/28/2025,FALSE,0,Not a clinic day
+D001,Dr. Daniel Blake,12/29/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/30/2025,TRUE,16,Weekdays only
+D001,Dr. Daniel Blake,12/31/2025,TRUE,16,Weekdays only
+D002,Dr. Michael Gomez,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/2/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/4/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/6/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/7/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/9/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/11/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/13/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/14/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/16/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/18/2025,FALSE,0,Conference
+D002,Dr. Michael Gomez,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/20/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/21/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/22/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/23/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/25/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/27/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/28/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D002,Dr. Michael Gomez,12/30/2025,FALSE,0,Not a clinic day
+D002,Dr. Michael Gomez,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D003,Dr. Priya Patel,12/1/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/2/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/3/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/4/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/5/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/6/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/7/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/8/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/9/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/10/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/11/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/12/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/13/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/14/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/15/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/16/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/17/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/18/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/19/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/20/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/21/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/22/2025,FALSE,0,Training
+D003,Dr. Priya Patel,12/23/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/24/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/25/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/26/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/27/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/28/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/29/2025,FALSE,0,Not a clinic day
+D003,Dr. Priya Patel,12/30/2025,TRUE,14,Tue/Thu clinic
+D003,Dr. Priya Patel,12/31/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/1/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/2/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/3/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/4/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/5/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/6/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/7/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/8/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/9/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/10/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/11/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/12/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/13/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/14/2025,FALSE,0,Out of office
+D004,Dr. Owen Jones,12/15/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/16/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/17/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/18/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/19/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/20/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/21/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/22/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/23/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/24/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/25/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/26/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/27/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/28/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/29/2025,FALSE,0,Not a clinic day
+D004,Dr. Owen Jones,12/30/2025,TRUE,15,Tue–Fri
+D004,Dr. Owen Jones,12/31/2025,TRUE,15,Tue–Fri
+D005,Dr.Michael Clark,12/1/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/2/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/3/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/4/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/5/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/6/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/7/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/8/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/9/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/10/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/11/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/12/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/13/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/14/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/15/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/16/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/17/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/18/2025,FALSE,0,Conference
+D005,Dr.Michael Clark,12/19/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/20/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/21/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/22/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/23/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/24/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/25/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/26/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/27/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/28/2025,FALSE,0,Not a clinic day
+D005,Dr.Michael Clark,12/29/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/30/2025,TRUE,15,Mon–Thu
+D005,Dr.Michael Clark,12/31/2025,TRUE,15,Mon–Thu
+D006,Dr. Sophia Blake,12/1/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/2/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/3/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/4/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/5/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/6/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/7/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/8/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/9/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/10/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/11/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/12/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/13/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/14/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/15/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/16/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/17/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/18/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/19/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/20/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/21/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/22/2025,FALSE,0,Training
+D006,Dr. Sophia Blake,12/23/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/24/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/25/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/26/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/27/2025,TRUE,10,Wed–Sat
+D006,Dr. Sophia Blake,12/28/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/29/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/30/2025,FALSE,0,Not a clinic day
+D006,Dr. Sophia Blake,12/31/2025,TRUE,10,Wed–Sat
+D007,Dr. Zoe Hughes,12/1/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/2/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/3/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/4/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/5/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/6/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/7/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/8/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/9/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/10/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/11/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/12/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/13/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/14/2025,FALSE,0,Out of office
+D007,Dr. Zoe Hughes,12/15/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/16/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/17/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/18/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/19/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/20/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/21/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/22/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/23/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/24/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/25/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/26/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/27/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/28/2025,FALSE,0,Not a clinic day
+D007,Dr. Zoe Hughes,12/29/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/30/2025,TRUE,8,Mon–Tue short days
+D007,Dr. Zoe Hughes,12/31/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/1/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/2/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/3/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/4/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/5/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/6/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/7/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/8/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/9/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/10/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/11/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/12/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/13/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/14/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/15/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/16/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/17/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/18/2025,FALSE,0,Conference
+D008,Dr. Olive Gray,12/19/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/20/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/21/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/22/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/23/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/24/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/25/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/26/2025,TRUE,12,Thu–Fri
+D008,Dr. Olive Gray,12/27/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/28/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/29/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/30/2025,FALSE,0,Not a clinic day
+D008,Dr. Olive Gray,12/31/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/1/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/2/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/3/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/4/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/5/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/6/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/7/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/8/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/9/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/10/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/11/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/12/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/13/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/14/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/15/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/16/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/17/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/18/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/19/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/20/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/21/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/22/2025,FALSE,0,Training
+D009,Dr. Isabella Brown ,12/23/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/24/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/25/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/26/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/27/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/28/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/29/2025,TRUE,13,Mon/Wed/Thu
+D009,Dr. Isabella Brown ,12/30/2025,FALSE,0,Not a clinic day
+D009,Dr. Isabella Brown ,12/31/2025,TRUE,13,Mon/Wed/Thu
+D010,Dr. Olive King,12/1/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/2/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/3/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/4/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/5/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/6/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/7/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/8/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/9/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/10/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/11/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/12/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/13/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/14/2025,FALSE,0,Out of office
+D010,Dr. Olive King,12/15/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/16/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/17/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/18/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/19/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/20/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/21/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/22/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/23/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/24/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/25/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/26/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/27/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/28/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/29/2025,FALSE,0,Not a clinic day
+D010,Dr. Olive King,12/30/2025,TRUE,9,Tue/Thu/Sat
+D010,Dr. Olive King,12/31/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/1/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/2/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/3/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/4/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/5/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/6/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/7/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/8/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/9/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/10/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/11/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/12/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/13/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/14/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/15/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/16/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/17/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/18/2025,FALSE,0,Conference
+D011,Dr. Mason Johnson,12/19/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/20/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/21/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/22/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/23/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/24/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/25/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/26/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/27/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/28/2025,FALSE,0,Not a clinic day
+D011,Dr. Mason Johnson,12/29/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/30/2025,TRUE,16,Weekdays only
+D011,Dr. Mason Johnson,12/31/2025,TRUE,16,Weekdays only
+D012,Dr. Miles Bell,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/2/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/4/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/6/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/7/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/9/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/11/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/13/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/14/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/16/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/18/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/20/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/21/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/22/2025,FALSE,0,Training
+D012,Dr. Miles Bell,12/23/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/25/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/27/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/28/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D012,Dr. Miles Bell,12/30/2025,FALSE,0,Not a clinic day
+D012,Dr. Miles Bell,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D013,Dr. Nathan Gomez,12/1/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/2/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/3/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/4/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/5/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/6/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/7/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/8/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/9/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/10/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/11/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/12/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/13/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/14/2025,FALSE,0,Out of office
+D013,Dr. Nathan Gomez,12/15/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/16/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/17/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/18/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/19/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/20/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/21/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/22/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/23/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/24/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/25/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/26/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/27/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/28/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/29/2025,FALSE,0,Not a clinic day
+D013,Dr. Nathan Gomez,12/30/2025,TRUE,14,Tue/Thu clinic
+D013,Dr. Nathan Gomez,12/31/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/1/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/2/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/3/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/4/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/5/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/6/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/7/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/8/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/9/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/10/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/11/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/12/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/13/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/14/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/15/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/16/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/17/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/18/2025,FALSE,0,Conference
+D014,Dr. Lily Price,12/19/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/20/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/21/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/22/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/23/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/24/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/25/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/26/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/27/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/28/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/29/2025,FALSE,0,Not a clinic day
+D014,Dr. Lily Price,12/30/2025,TRUE,15,Tue–Fri
+D014,Dr. Lily Price,12/31/2025,TRUE,15,Tue–Fri
+D015,Dr. Noah Brooks,12/1/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/2/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/3/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/4/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/5/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/6/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/7/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/8/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/9/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/10/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/11/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/12/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/13/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/14/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/15/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/16/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/17/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/18/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/19/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/20/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/21/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/22/2025,FALSE,0,Training
+D015,Dr. Noah Brooks,12/23/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/24/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/25/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/26/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/27/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/28/2025,FALSE,0,Not a clinic day
+D015,Dr. Noah Brooks,12/29/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/30/2025,TRUE,15,Mon–Thu
+D015,Dr. Noah Brooks,12/31/2025,TRUE,15,Mon–Thu
+D016,Dr. Isabella Sanders,12/1/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/2/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/3/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/4/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/5/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/6/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/7/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/8/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/9/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/10/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/11/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/12/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/13/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/14/2025,FALSE,0,Out of office
+D016,Dr. Isabella Sanders,12/15/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/16/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/17/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/18/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/19/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/20/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/21/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/22/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/23/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/24/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/25/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/26/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/27/2025,TRUE,10,Wed–Sat
+D016,Dr. Isabella Sanders,12/28/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/29/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/30/2025,FALSE,0,Not a clinic day
+D016,Dr. Isabella Sanders,12/31/2025,TRUE,10,Wed–Sat
+D017,Dr. Henry Wright,12/1/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/2/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/3/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/4/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/5/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/6/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/7/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/8/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/9/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/10/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/11/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/12/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/13/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/14/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/15/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/16/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/17/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/18/2025,FALSE,0,Conference
+D017,Dr. Henry Wright,12/19/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/20/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/21/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/22/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/23/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/24/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/25/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/26/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/27/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/28/2025,FALSE,0,Not a clinic day
+D017,Dr. Henry Wright,12/29/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/30/2025,TRUE,8,Mon–Tue short days
+D017,Dr. Henry Wright,12/31/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/1/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/2/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/3/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/4/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/5/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/6/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/7/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/8/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/9/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/10/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/11/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/12/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/13/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/14/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/15/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/16/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/17/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/18/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/19/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/20/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/21/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/22/2025,FALSE,0,Training
+D018,Dr. Ben Wright,12/23/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/24/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/25/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/26/2025,TRUE,12,Thu–Fri
+D018,Dr. Ben Wright,12/27/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/28/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/29/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/30/2025,FALSE,0,Not a clinic day
+D018,Dr. Ben Wright,12/31/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/1/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/2/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/3/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/4/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/5/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/6/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/7/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/8/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/9/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/10/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/11/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/12/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/13/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/14/2025,FALSE,0,Out of office
+D019,Dr. Leah Wright,12/15/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/16/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/17/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/18/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/19/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/20/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/21/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/22/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/23/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/24/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/25/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/26/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/27/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/28/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/29/2025,TRUE,13,Mon/Wed/Thu
+D019,Dr. Leah Wright,12/30/2025,FALSE,0,Not a clinic day
+D019,Dr. Leah Wright,12/31/2025,TRUE,13,Mon/Wed/Thu
+D020,Dr. Chloe Wright,12/1/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/2/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/3/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/4/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/5/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/6/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/7/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/8/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/9/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/10/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/11/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/12/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/13/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/14/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/15/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/16/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/17/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/18/2025,FALSE,0,Conference
+D020,Dr. Chloe Wright,12/19/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/20/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/21/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/22/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/23/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/24/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/25/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/26/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/27/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/28/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/29/2025,FALSE,0,Not a clinic day
+D020,Dr. Chloe Wright,12/30/2025,TRUE,9,Tue/Thu/Sat
+D020,Dr. Chloe Wright,12/31/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/1/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/2/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/3/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/4/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/5/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/6/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/7/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/8/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/9/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/10/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/11/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/12/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/13/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/14/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/15/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/16/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/17/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/18/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/19/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/20/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/21/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/22/2025,FALSE,0,Training
+D021,Dr. Isabella Brooks,12/23/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/24/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/25/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/26/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/27/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/28/2025,FALSE,0,Not a clinic day
+D021,Dr. Isabella Brooks,12/29/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/30/2025,TRUE,16,Weekdays only
+D021,Dr. Isabella Brooks,12/31/2025,TRUE,16,Weekdays only
+D022,Dr. Henry Rivera,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/2/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/4/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/6/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/7/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/9/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/11/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/13/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/14/2025,FALSE,0,Out of office
+D022,Dr. Henry Rivera,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/16/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/18/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/20/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/21/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/22/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/23/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/25/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/27/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/28/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D022,Dr. Henry Rivera,12/30/2025,FALSE,0,Not a clinic day
+D022,Dr. Henry Rivera,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D023,Dr. Adam White,12/1/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/2/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/3/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/4/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/5/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/6/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/7/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/8/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/9/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/10/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/11/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/12/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/13/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/14/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/15/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/16/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/17/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/18/2025,FALSE,0,Conference
+D023,Dr. Adam White,12/19/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/20/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/21/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/22/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/23/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/24/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/25/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/26/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/27/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/28/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/29/2025,FALSE,0,Not a clinic day
+D023,Dr. Adam White,12/30/2025,TRUE,14,Tue/Thu clinic
+D023,Dr. Adam White,12/31/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/1/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/2/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/3/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/4/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/5/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/6/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/7/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/8/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/9/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/10/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/11/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/12/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/13/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/14/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/15/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/16/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/17/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/18/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/19/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/20/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/21/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/22/2025,FALSE,0,Training
+D024,Dr. Lucas Jones,12/23/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/24/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/25/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/26/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/27/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/28/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/29/2025,FALSE,0,Not a clinic day
+D024,Dr. Lucas Jones,12/30/2025,TRUE,15,Tue–Fri
+D024,Dr. Lucas Jones,12/31/2025,TRUE,15,Tue–Fri
+D025,Dr. Olivia White,12/1/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/2/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/3/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/4/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/5/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/6/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/7/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/8/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/9/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/10/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/11/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/12/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/13/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/14/2025,FALSE,0,Out of office
+D025,Dr. Olivia White,12/15/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/16/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/17/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/18/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/19/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/20/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/21/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/22/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/23/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/24/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/25/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/26/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/27/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/28/2025,FALSE,0,Not a clinic day
+D025,Dr. Olivia White,12/29/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/30/2025,TRUE,15,Mon–Thu
+D025,Dr. Olivia White,12/31/2025,TRUE,15,Mon–Thu
+D026,Dr. Sophie White,12/1/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/2/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/3/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/4/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/5/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/6/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/7/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/8/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/9/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/10/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/11/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/12/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/13/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/14/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/15/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/16/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/17/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/18/2025,FALSE,0,Conference
+D026,Dr. Sophie White,12/19/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/20/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/21/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/22/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/23/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/24/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/25/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/26/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/27/2025,TRUE,10,Wed–Sat
+D026,Dr. Sophie White,12/28/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/29/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/30/2025,FALSE,0,Not a clinic day
+D026,Dr. Sophie White,12/31/2025,TRUE,10,Wed–Sat
+D027,Dr. Emily Price,12/1/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/2/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/3/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/4/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/5/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/6/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/7/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/8/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/9/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/10/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/11/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/12/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/13/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/14/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/15/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/16/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/17/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/18/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/19/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/20/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/21/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/22/2025,FALSE,0,Training
+D027,Dr. Emily Price,12/23/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/24/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/25/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/26/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/27/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/28/2025,FALSE,0,Not a clinic day
+D027,Dr. Emily Price,12/29/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/30/2025,TRUE,8,Mon–Tue short days
+D027,Dr. Emily Price,12/31/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/1/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/2/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/3/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/4/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/5/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/6/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/7/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/8/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/9/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/10/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/11/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/12/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/13/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/14/2025,FALSE,0,Out of office
+D028,Dr. Sarah Sanders,12/15/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/16/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/17/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/18/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/19/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/20/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/21/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/22/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/23/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/24/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/25/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/26/2025,TRUE,12,Thu–Fri
+D028,Dr. Sarah Sanders,12/27/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/28/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/29/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/30/2025,FALSE,0,Not a clinic day
+D028,Dr. Sarah Sanders,12/31/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/1/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/2/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/3/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/4/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/5/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/6/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/7/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/8/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/9/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/10/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/11/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/12/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/13/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/14/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/15/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/16/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/17/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/18/2025,FALSE,0,Conference
+D029,Dr. Emily Price,12/19/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/20/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/21/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/22/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/23/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/24/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/25/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/26/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/27/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/28/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/29/2025,TRUE,13,Mon/Wed/Thu
+D029,Dr. Emily Price,12/30/2025,FALSE,0,Not a clinic day
+D029,Dr. Emily Price,12/31/2025,TRUE,13,Mon/Wed/Thu
+D030,Dr. Leah Brown,12/1/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/2/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/3/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/4/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/5/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/6/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/7/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/8/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/9/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/10/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/11/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/12/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/13/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/14/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/15/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/16/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/17/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/18/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/19/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/20/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/21/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/22/2025,FALSE,0,Training
+D030,Dr. Leah Brown,12/23/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/24/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/25/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/26/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/27/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/28/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/29/2025,FALSE,0,Not a clinic day
+D030,Dr. Leah Brown,12/30/2025,TRUE,9,Tue/Thu/Sat
+D030,Dr. Leah Brown,12/31/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/1/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/2/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/3/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/4/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/5/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/6/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/7/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/8/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/9/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/10/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/11/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/12/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/13/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/14/2025,FALSE,0,Out of office
+D031,Dr. Noah Reyes,12/15/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/16/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/17/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/18/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/19/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/20/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/21/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/22/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/23/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/24/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/25/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/26/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/27/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/28/2025,FALSE,0,Not a clinic day
+D031,Dr. Noah Reyes,12/29/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/30/2025,TRUE,16,Weekdays only
+D031,Dr. Noah Reyes,12/31/2025,TRUE,16,Weekdays only
+D032,Dr. Priya Reed,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/2/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/4/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/6/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/7/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/9/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/11/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/13/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/14/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/16/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/18/2025,FALSE,0,Conference
+D032,Dr. Priya Reed,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/20/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/21/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/22/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/23/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/25/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/27/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/28/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D032,Dr. Priya Reed,12/30/2025,FALSE,0,Not a clinic day
+D032,Dr. Priya Reed,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D033,Dr. Mason White,12/1/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/2/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/3/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/4/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/5/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/6/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/7/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/8/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/9/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/10/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/11/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/12/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/13/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/14/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/15/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/16/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/17/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/18/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/19/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/20/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/21/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/22/2025,FALSE,0,Training
+D033,Dr. Mason White,12/23/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/24/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/25/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/26/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/27/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/28/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/29/2025,FALSE,0,Not a clinic day
+D033,Dr. Mason White,12/30/2025,TRUE,14,Tue/Thu clinic
+D033,Dr. Mason White,12/31/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/1/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/2/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/3/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/4/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/5/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/6/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/7/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/8/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/9/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/10/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/11/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/12/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/13/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/14/2025,FALSE,0,Out of office
+D034,Dr. Ella Kim,12/15/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/16/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/17/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/18/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/19/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/20/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/21/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/22/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/23/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/24/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/25/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/26/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/27/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/28/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/29/2025,FALSE,0,Not a clinic day
+D034,Dr. Ella Kim,12/30/2025,TRUE,15,Tue–Fri
+D034,Dr. Ella Kim,12/31/2025,TRUE,15,Tue–Fri
+D035,Dr. Dylan Miller ,12/1/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/2/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/3/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/4/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/5/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/6/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/7/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/8/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/9/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/10/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/11/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/12/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/13/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/14/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/15/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/16/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/17/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/18/2025,FALSE,0,Conference
+D035,Dr. Dylan Miller ,12/19/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/20/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/21/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/22/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/23/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/24/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/25/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/26/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/27/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/28/2025,FALSE,0,Not a clinic day
+D035,Dr. Dylan Miller ,12/29/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/30/2025,TRUE,15,Mon–Thu
+D035,Dr. Dylan Miller ,12/31/2025,TRUE,15,Mon–Thu
+D036,Dr. Lily Reyes,12/1/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/2/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/3/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/4/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/5/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/6/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/7/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/8/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/9/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/10/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/11/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/12/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/13/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/14/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/15/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/16/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/17/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/18/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/19/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/20/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/21/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/22/2025,FALSE,0,Training
+D036,Dr. Lily Reyes,12/23/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/24/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/25/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/26/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/27/2025,TRUE,10,Wed–Sat
+D036,Dr. Lily Reyes,12/28/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/29/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/30/2025,FALSE,0,Not a clinic day
+D036,Dr. Lily Reyes,12/31/2025,TRUE,10,Wed–Sat
+D037,Dr. Dylan Gomez,12/1/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/2/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/3/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/4/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/5/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/6/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/7/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/8/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/9/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/10/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/11/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/12/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/13/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/14/2025,FALSE,0,Out of office
+D037,Dr. Dylan Gomez,12/15/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/16/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/17/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/18/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/19/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/20/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/21/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/22/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/23/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/24/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/25/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/26/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/27/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/28/2025,FALSE,0,Not a clinic day
+D037,Dr. Dylan Gomez,12/29/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/30/2025,TRUE,8,Mon–Tue short days
+D037,Dr. Dylan Gomez,12/31/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/1/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/2/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/3/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/4/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/5/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/6/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/7/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/8/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/9/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/10/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/11/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/12/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/13/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/14/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/15/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/16/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/17/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/18/2025,FALSE,0,Conference
+D038,Dr. Henry Blake,12/19/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/20/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/21/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/22/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/23/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/24/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/25/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/26/2025,TRUE,12,Thu–Fri
+D038,Dr. Henry Blake,12/27/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/28/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/29/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/30/2025,FALSE,0,Not a clinic day
+D038,Dr. Henry Blake,12/31/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/1/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/2/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/3/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/4/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/5/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/6/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/7/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/8/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/9/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/10/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/11/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/12/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/13/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/14/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/15/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/16/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/17/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/18/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/19/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/20/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/21/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/22/2025,FALSE,0,Training
+D039,Dr. Priya Blake,12/23/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/24/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/25/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/26/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/27/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/28/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/29/2025,TRUE,13,Mon/Wed/Thu
+D039,Dr. Priya Blake,12/30/2025,FALSE,0,Not a clinic day
+D039,Dr. Priya Blake,12/31/2025,TRUE,13,Mon/Wed/Thu
+D040,Dr. Ella Scott,12/1/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/2/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/3/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/4/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/5/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/6/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/7/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/8/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/9/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/10/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/11/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/12/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/13/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/14/2025,FALSE,0,Out of office
+D040,Dr. Ella Scott,12/15/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/16/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/17/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/18/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/19/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/20/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/21/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/22/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/23/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/24/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/25/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/26/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/27/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/28/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/29/2025,FALSE,0,Not a clinic day
+D040,Dr. Ella Scott,12/30/2025,TRUE,9,Tue/Thu/Sat
+D040,Dr. Ella Scott,12/31/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/1/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/2/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/3/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/4/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/5/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/6/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/7/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/8/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/9/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/10/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/11/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/12/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/13/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/14/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/15/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/16/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/17/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/18/2025,FALSE,0,Conference
+D041,Dr. Zoe Wright,12/19/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/20/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/21/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/22/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/23/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/24/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/25/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/26/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/27/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/28/2025,FALSE,0,Not a clinic day
+D041,Dr. Zoe Wright,12/29/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/30/2025,TRUE,16,Weekdays only
+D041,Dr. Zoe Wright,12/31/2025,TRUE,16,Weekdays only
+D042,Dr. Henry Johnson,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/2/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/4/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/6/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/7/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/9/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/11/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/13/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/14/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/16/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/18/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/20/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/21/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/22/2025,FALSE,0,Training
+D042,Dr. Henry Johnson,12/23/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/25/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/27/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/28/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D042,Dr. Henry Johnson,12/30/2025,FALSE,0,Not a clinic day
+D042,Dr. Henry Johnson,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D043,Dr. Henry Johnson,12/1/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/2/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/3/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/4/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/5/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/6/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/7/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/8/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/9/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/10/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/11/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/12/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/13/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/14/2025,FALSE,0,Out of office
+D043,Dr. Henry Johnson,12/15/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/16/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/17/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/18/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/19/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/20/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/21/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/22/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/23/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/24/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/25/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/26/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/27/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/28/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/29/2025,FALSE,0,Not a clinic day
+D043,Dr. Henry Johnson,12/30/2025,TRUE,14,Tue/Thu clinic
+D043,Dr. Henry Johnson,12/31/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/1/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/2/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/3/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/4/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/5/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/6/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/7/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/8/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/9/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/10/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/11/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/12/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/13/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/14/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/15/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/16/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/17/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/18/2025,FALSE,0,Conference
+D044,Dr. Caroline Singh,12/19/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/20/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/21/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/22/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/23/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/24/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/25/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/26/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/27/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/28/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/29/2025,FALSE,0,Not a clinic day
+D044,Dr. Caroline Singh,12/30/2025,TRUE,15,Tue–Fri
+D044,Dr. Caroline Singh,12/31/2025,TRUE,15,Tue–Fri
+D045,Dr. Sophia Patel,12/1/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/2/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/3/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/4/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/5/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/6/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/7/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/8/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/9/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/10/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/11/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/12/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/13/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/14/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/15/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/16/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/17/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/18/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/19/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/20/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/21/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/22/2025,FALSE,0,Training
+D045,Dr. Sophia Patel,12/23/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/24/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/25/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/26/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/27/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/28/2025,FALSE,0,Not a clinic day
+D045,Dr. Sophia Patel,12/29/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/30/2025,TRUE,15,Mon–Thu
+D045,Dr. Sophia Patel,12/31/2025,TRUE,15,Mon–Thu
+D046,Dr. Miles Stewart,12/1/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/2/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/3/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/4/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/5/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/6/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/7/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/8/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/9/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/10/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/11/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/12/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/13/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/14/2025,FALSE,0,Out of office
+D046,Dr. Miles Stewart,12/15/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/16/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/17/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/18/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/19/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/20/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/21/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/22/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/23/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/24/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/25/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/26/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/27/2025,TRUE,10,Wed–Sat
+D046,Dr. Miles Stewart,12/28/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/29/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/30/2025,FALSE,0,Not a clinic day
+D046,Dr. Miles Stewart,12/31/2025,TRUE,10,Wed–Sat
+D047,Dr. Jack Nelson,12/1/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/2/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/3/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/4/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/5/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/6/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/7/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/8/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/9/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/10/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/11/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/12/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/13/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/14/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/15/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/16/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/17/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/18/2025,FALSE,0,Conference
+D047,Dr. Jack Nelson,12/19/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/20/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/21/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/22/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/23/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/24/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/25/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/26/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/27/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/28/2025,FALSE,0,Not a clinic day
+D047,Dr. Jack Nelson,12/29/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/30/2025,TRUE,8,Mon–Tue short days
+D047,Dr. Jack Nelson,12/31/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/1/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/2/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/3/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/4/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/5/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/6/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/7/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/8/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/9/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/10/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/11/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/12/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/13/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/14/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/15/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/16/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/17/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/18/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/19/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/20/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/21/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/22/2025,FALSE,0,Training
+D048,Dr. Owen Hill,12/23/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/24/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/25/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/26/2025,TRUE,12,Thu–Fri
+D048,Dr. Owen Hill,12/27/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/28/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/29/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/30/2025,FALSE,0,Not a clinic day
+D048,Dr. Owen Hill,12/31/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/1/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/2/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/3/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/4/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/5/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/6/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/7/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/8/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/9/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/10/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/11/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/12/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/13/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/14/2025,FALSE,0,Out of office
+D049,Dr. Jack Cooper,12/15/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/16/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/17/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/18/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/19/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/20/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/21/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/22/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/23/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/24/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/25/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/26/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/27/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/28/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/29/2025,TRUE,13,Mon/Wed/Thu
+D049,Dr. Jack Cooper,12/30/2025,FALSE,0,Not a clinic day
+D049,Dr. Jack Cooper,12/31/2025,TRUE,13,Mon/Wed/Thu
+D050,Dr. Isabella Blake,12/1/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/2/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/3/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/4/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/5/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/6/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/7/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/8/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/9/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/10/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/11/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/12/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/13/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/14/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/15/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/16/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/17/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/18/2025,FALSE,0,Conference
+D050,Dr. Isabella Blake,12/19/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/20/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/21/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/22/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/23/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/24/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/25/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/26/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/27/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/28/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/29/2025,FALSE,0,Not a clinic day
+D050,Dr. Isabella Blake,12/30/2025,TRUE,9,Tue/Thu/Sat
+D050,Dr. Isabella Blake,12/31/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/1/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/2/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/3/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/4/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/5/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/6/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/7/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/8/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/9/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/10/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/11/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/12/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/13/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/14/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/15/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/16/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/17/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/18/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/19/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/20/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/21/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/22/2025,FALSE,0,Training
+D051,Dr. Aaron King,12/23/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/24/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/25/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/26/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/27/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/28/2025,FALSE,0,Not a clinic day
+D051,Dr. Aaron King,12/29/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/30/2025,TRUE,16,Weekdays only
+D051,Dr. Aaron King,12/31/2025,TRUE,16,Weekdays only
+D052,Dr. David Lee,12/1/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/2/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/3/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/4/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/5/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/6/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/7/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/8/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/9/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/10/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/11/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/12/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/13/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/14/2025,FALSE,0,Out of office
+D052,Dr. David Lee,12/15/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/16/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/17/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/18/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/19/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/20/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/21/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/22/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/23/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/24/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/25/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/26/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/27/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/28/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/29/2025,TRUE,12,Mon/Wed/Fri clinic
+D052,Dr. David Lee,12/30/2025,FALSE,0,Not a clinic day
+D052,Dr. David Lee,12/31/2025,TRUE,12,Mon/Wed/Fri clinic
+D053,Dr. Ben Patel,12/1/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/2/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/3/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/4/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/5/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/6/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/7/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/8/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/9/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/10/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/11/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/12/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/13/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/14/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/15/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/16/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/17/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/18/2025,FALSE,0,Conference
+D053,Dr. Ben Patel,12/19/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/20/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/21/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/22/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/23/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/24/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/25/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/26/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/27/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/28/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/29/2025,FALSE,0,Not a clinic day
+D053,Dr. Ben Patel,12/30/2025,TRUE,14,Tue/Thu clinic
+D053,Dr. Ben Patel,12/31/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/1/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/2/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/3/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/4/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/5/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/6/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/7/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/8/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/9/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/10/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/11/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/12/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/13/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/14/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/15/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/16/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/17/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/18/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/19/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/20/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/21/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/22/2025,FALSE,0,Training
+D054,Dr. Sarah Torres,12/23/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/24/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/25/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/26/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/27/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/28/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/29/2025,FALSE,0,Not a clinic day
+D054,Dr. Sarah Torres,12/30/2025,TRUE,15,Tue–Fri
+D054,Dr. Sarah Torres,12/31/2025,TRUE,15,Tue–Fri

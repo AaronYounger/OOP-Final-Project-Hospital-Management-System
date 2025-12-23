@@ -1,0 +1,23 @@
+System / Category,Doctor_Specialty
+Infectious & Parasitic Diseases,General Practitioner
+Neoplasms (Tumors / Cancer),General Practitioner
+Blood & Immune Disorders,Hematologist
+"Endocrine, Nutritional & Metabolic",Endocrinologist
+Mental & Behavioral Disorders,General Practitioner
+Nervous System,General Practitioner
+Eye & Vision,Optometrist
+Ear & Hearing,ENT Doctor
+Circulatory System,Cardiologist
+Respiratory System,General Practitioner
+Digestive System,Gastroenterologist
+Skin & Subcutaneous Tissue,Dermatologist
+Musculoskeletal System,General Practitioner
+Genitourinary System,OBGYN
+Pregnancy & Childbirth,OBGYN
+Perinatal Conditions (Newborn),Pediatrician
+Congenital Malformations,Pediatrician
+Symptoms & Abnormal Findings (nonspecific),General Practitioner
+Injury & Poisoning,General Practitioner
+External Causes,General Practitioner
+Health Status & Encounters,General Practitioner
+"Special Purposes (e.g., COVID-19)",General Practitioner

@@ -1,0 +1,23 @@
+Letter Range,System / Category,Symptoms
+A00–B99,Infectious & Parasitic Diseases,Fever; Chills; Diarrhea; Rash; Fatigue
+C00–D49,Neoplasms (Tumors / Cancer),Unexplained weight loss; Fatigue; Pain; Bleeding; Lumps or masses
+D50–D89,Blood & Immune Disorders,Pallor; Easy bruising; Frequent infections; Fatigue; Swollen lymph nodes
+E00–E89,"Endocrine, Nutritional & Metabolic",Weight gain/loss; Thirst; Hair loss; Temperature intolerance; Fatigue
+F01–F99,Mental & Behavioral Disorders,Anxiety; Depression; Insomnia; Delusions; Poor concentration
+G00–G99,Nervous System,Headache; Dizziness; Numbness; Seizures; Muscle weakness
+H00–H59,Eye & Vision,Blurred vision; Eye pain; Redness; Double vision; Light sensitivity
+H60–H95,Ear & Hearing,Hearing loss; Tinnitus; Ear pain; Vertigo; Drainage
+I00–I99,Circulatory System,Chest pain; Shortness of breath; Swelling; Palpitations; Dizziness
+J00–J99,Respiratory System,Cough; Wheezing; Shortness of breath; Sore throat; Congestion
+K00–K95,Digestive System,Nausea; Vomiting; Abdominal pain; Diarrhea; Bloating
+L00–L99,Skin & Subcutaneous Tissue,Rash; Itching; Redness; Dryness; Swelling
+M00–M99,Musculoskeletal System,Joint pain; Stiffness; Swelling; Weakness; Back pain
+N00–N99,Genitourinary System,Painful urination; Pelvic pain; Discharge; Incontinence; Blood in urine
+O00–O9A,Pregnancy & Childbirth,Morning sickness; Swelling; Bleeding; Contractions; Back pain
+P00–P96,Perinatal Conditions (Newborn),Breathing difficulty; Jaundice; Poor feeding; Low birth weight; Irritability
+Q00–Q99,Congenital Malformations,Developmental delays; Deformities; Heart defects; Cleft palate; Abnormal limbs
+R00–R99,Symptoms & Abnormal Findings (nonspecific),Fatigue; Fever; Pain; Dizziness; Abnormal lab results
+S00–T88,Injury & Poisoning,Cuts; Burns; Fractures; Bruising; Poisoning symptoms (nausea/confusion)
+V00–Y99,External Causes,Motor accident injuries; Falls; Burns; Assault injuries; Work-related trauma
+Z00–Z99,Health Status & Encounters,Routine checkup; Vaccination; Screening visit; Family history concerns; Aftercare
+U00–U85,"Special Purposes (e.g., COVID-19)",Cough; Fever; Shortness of breath; Fatigue; Loss of smell/taste
